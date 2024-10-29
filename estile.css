@@ -1,0 +1,38 @@
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(to right, #74ebd5, #9face6);
+            color: #333;
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            margin-top: 50px;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #2c3e50;
+        }
+        .btn-primary {
+            background-color: #2980b9;
+            border: none;
+        }
+        .btn-primary:hover {
+            background-color: #3498db;
+        }
+        .btn-secondary {
+            background-color: #95a5a6;
+            border: none;
+        }
+        .btn-secondary:hover {
+            background-color: #bdc3c7;
+        }
+        #resultado {
+            font-weight: 500;
+            margin-top: 20px;
+            text-align: center;
+            font-size: 1.2em;
+        }
